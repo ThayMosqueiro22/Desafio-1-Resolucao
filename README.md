@@ -3,4 +3,4 @@ Desafio 1 do projeto de desenvolvimento do módulo base do curso de Tecnologia d
 
 Link do site disponibilizado: https://arquitetura-desafio-1.netlify.app/
 
-Link da planilha de registro de informação:https://github.com/ThayMosqueiro22/Desafio-1-Resolucao.git](https://api.sheetmonkey.io/form/kgscz4jmuVdRuBcgMJH6kF
+Link da planilha de registro de informação:https://docs.google.com/spreadsheets/d/1lg8AJZVYOhJJCIAISijQ-BOlpL9x1e42HqmTh1I0yzA/edit?gid=0#gid=0
