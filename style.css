@@ -1,0 +1,118 @@
+*{
+    margin: 0px;
+    font-family: 'inter';
+    
+}
+
+#FundoSuperior{
+    background-color: #303030;
+    margin: 0px;
+    /* width: 1440px; */
+    height: 475px;
+    
+}
+
+#TituloSuperior{
+    font-family: 'inter';
+    padding-top: 206px;
+    padding-left: 62px;
+    color: #FFFFFF;
+    line-height: 72px;
+    initial-letter: -2.5%;
+}
+
+#TextoSuperior{
+    font-family: 'inter';
+    font-size: 20px;
+    line-height: 28px;
+    padding-left: 62px;
+    color: #FFFFFF;
+}
+
+#Informacao{
+    background-color: #F9F9F9;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    padding: 50px;
+   
+}
+
+.icones{
+    margin-left: 120px;
+}
+
+.texto{
+    margin-left: 120px;
+}
+
+#SecaoHistoria{
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    margin: 55px;
+}
+
+#TituloHistoria{
+    font-size: 40px;
+    margin-top: 310px;
+    margin-left: 77px;
+    display: flex;
+    align-items: center;
+
+}
+
+#TextoHistoria{
+    font-size: 24px;
+    margin-left: 77px;
+    margin-top: 25px;
+}
+
+.imagem{
+
+    margin: 125px 25px 125px 25px;
+}
+
+#Formulario{
+    background-color:#303030;
+    text-align: center;
+    padding: 70px;
+
+}
+
+#formTitulo{
+    background-color: #303030;
+    margin: 25px;
+    color: #FFFFFF;
+}
+
+input{
+    width:508px;
+    height: 72px;
+    background-color: #F9F9F9;
+    margin: 35px;
+    border: 0px;
+    border-radius: 10px;
+    padding-left: 36px
+}
+
+button{
+    background-color: #C07212;
+    height: 74px;
+    width: 286px;
+    margin: 50px;
+    color: #FFFFFF;
+    border: 0px;
+    border-radius:10px;
+    font-size: 30px;
+    font-weight: bolder;
+    cursor:pointer;
+}
+
+button:hover{
+    background-color: #da9139;
+    color: #FFFFFF;
+    transform: translateX(10px);
+    box-shadow: 15px 15px 20px #fd6602a4;
+    transition-duration: 0.3s;
+}
